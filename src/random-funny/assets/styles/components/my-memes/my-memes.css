@@ -1,0 +1,40 @@
+
+.my-memes__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-memes__header h1 {
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #252525;
+    margin: 0;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px auto;
+    gap: 30px 30px;
+    width: 100%;
+    overflow: auto;
+    padding: 0 40px;
+    min-height: 445px;
+}
+
+.gallery::-webkit-scrollbar-track {
+    padding: 2px 0;
+    background: none;
+}
+
+.gallery::-webkit-scrollbar {
+    width: 10px;
+}
+
+.gallery::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #152D35;
+}
