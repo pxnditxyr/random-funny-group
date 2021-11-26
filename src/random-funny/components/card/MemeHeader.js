@@ -1,6 +1,5 @@
 
-
-export const CardHeader = ({ urlImage, altImage }) => {
+export const MemeHeader = ({ urlImage, altImage }) => {
     return (
         <section className="card__header">
             <div className="card__image">
