@@ -10,11 +10,11 @@
     "index.html": "/index.html",
     "static/css/main.bec1176e.chunk.css.map": "/static/css/main.bec1176e.chunk.css.map",
     "static/js/2.e0f5d652.chunk.js.LICENSE.txt": "/static/js/2.e0f5d652.chunk.js.LICENSE.txt",
-    "static/media/facebook.svg": "/static/media/facebook.74332d12.svg",
-    "static/media/github.svg": "/static/media/github.807e98d3.svg",
-    "static/media/random-funny.svg": "/static/media/random-funny.1b07a9ee.svg",
-    "static/media/twitter.svg": "/static/media/twitter.e86d9dae.svg",
-    "static/media/youtube.svg": "/static/media/youtube.1bdc87ba.svg"
+    "static/media/facebook.svg": "./static/media/facebook.74332d12.svg",
+    "static/media/github.svg": "./static/media/github.807e98d3.svg",
+    "static/media/random-funny.svg": "./static/media/random-funny.1b07a9ee.svg",
+    "static/media/twitter.svg": "./static/media/twitter.e86d9dae.svg",
+    "static/media/youtube.svg": "./static/media/youtube.1bdc87ba.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c65d0030.js",
